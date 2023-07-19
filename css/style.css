@@ -21,6 +21,11 @@
     z-index: 99;
 }
 
+.justified-text{
+    text-align: justify;
+    line-height: 2.2rem;
+}
+
 
 /*** Spinner ***/
 #spinner {
